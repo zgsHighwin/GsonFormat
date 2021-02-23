@@ -26,7 +26,7 @@ intellij {
     version 'IC-2016.2.5'
     pluginName 'GsonFormat'
     updateSinceUntilBuild false
-
+    alternativeIdePath '/Applications/Android Studio.app'
 //    publish {
 //        pluginId '7910'
 //        username publishUsername

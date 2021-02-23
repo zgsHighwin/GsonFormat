@@ -23,6 +23,7 @@
   <li>fix unlock setting window size </li>
   </p>
 ]]></change-notes>
+    <depends>com.intellij.modules.java</depends>
     <actions>
         <action id="Gsonformat" class="org.gsonformat.intellij.MainAction" text="GsonFormat">
             <add-to-group group-id="GenerateGroup" anchor="last"/>
